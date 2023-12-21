@@ -1,4 +1,4 @@
 CSC111 Final Lab Project
 
-- Arrays (Operations)X
+- Arrays (Operations)
 - Objects (Parking Invoice System)
